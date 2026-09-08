@@ -9,4 +9,9 @@ DAX
 Excel (Data Cleaning),
 Netflix Dataset 
 # Dashboard
-<img width="1151" height="646" alt="Screenshot 2026-09-08 232106" src="https://github.com/user-attachments/assets/4d7e588a-07b5-4466-bdf1-f5704fbf9c38" />
+<img width="1166" height="646" alt="Screenshot 2026-09-08 231951" src="https://github.com/user-attachments/assets/5a549bc1-9fa6-4067-8712-17e60e65d33e" />
+<img width="1146" height="632" alt="Screenshot 2026-09-08 232015" src="https://github.com/user-attachments/assets/0a5570eb-2dd1-437d-b335-f8011be44848" />
+<img width="1161" height="647" alt="Screenshot 2026-09-08 232032" src="https://github.com/user-attachments/assets/92435b25-d019-4fa2-958e-05efd304d8f0" />
+<img width="1147" height="657" alt="Screenshot 2026-09-08 232049" src="https://github.com/user-attachments/assets/17d77ae5-aa6a-4a85-874c-038f0a4bebb8" />
+<img width="1151" height="646" alt="Screenshot 2026-09-08 232106" src="https://github.com/user-attachments/assets/cdee0320-0e15-4905-a8de-9a04d8b03389" />
+
